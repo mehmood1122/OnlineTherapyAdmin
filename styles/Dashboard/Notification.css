@@ -1,0 +1,21 @@
+.notifcation_container{
+    display: block;
+    /* margin: 0 0 0 auto; */
+    border: none !important;
+    position: absolute;
+    left: 19%;
+    height: 120vh;
+}
+.first_notification{
+/* border-left: 0.5px solid; */
+}
+.first_notification>img{
+    margin-right: 26px;
+    /* border-bottom: 1px solid; */
+    
+    
+}
+.first_notification>.notification_desc{
+    padding-left: 42px;
+    margin-top: 14px;
+}

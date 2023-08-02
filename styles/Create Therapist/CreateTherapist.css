@@ -1,0 +1,163 @@
+.create_therapist_container{
+    display: block;
+    border: none !important;
+    position: absolute;
+    left: 19%;
+    /* left: 2%; */
+    height: 120vh;
+}
+.create_therapist_title{
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 40px;
+}
+.create_therapist_user_field {
+    display: flex;
+    flex-direction: column;
+}
+.create_therapist_user_field > input{
+    width: 750px;
+    height: 54px;
+    padding: 10px 15px;
+    border-radius: 50px;
+    border: 0.7px solid #E0E7ED;
+    outline: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.create_therapist_email_field {
+    display: flex;
+    flex-direction: column;
+}
+.create_therapist_email_field > input{
+    width: 750px;
+    height: 54px;
+    padding: 10px 15px;
+    border-radius: 50px;
+    border: 0.7px solid #E0E7ED;
+    outline: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+.create_therapist_password_field{
+    display: flex;
+    flex-direction: column;
+}
+.create_therapist_password_field > input{
+    width: 750px;
+    height: 54px;
+    padding: 10px 15px;
+    border-radius: 50px;
+    border: 0.7px solid #E0E7ED;
+    outline: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.create_therapist_Repassword_field{
+    display: flex;
+    flex-direction: column;
+}
+.create_therapist_Repassword_field > input{
+    width: 750px;
+    height: 54px;
+    padding: 10px 15px;
+    border-radius: 50px;
+    border: 0.7px solid #E0E7ED;
+    outline: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+.create_therapist_expertise_field{
+    display: flex;
+    flex-direction: column;
+}
+.create_therapist_expertise_field > input{
+    width: 750px;
+    height: 54px;
+    padding: 10px 15px;
+    border-radius: 50px;
+    border: 0.7px solid #E0E7ED;
+    outline: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+.create_therapist_experience_field{
+    display: flex;
+    flex-direction: column;
+}
+.create_therapist_experience_field > input{ 
+    width: 750px;
+    height: 54px;
+    padding: 10px 15px;
+    border-radius: 50px;
+    border: 0.7px solid #E0E7ED;
+    outline: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+.create_therapist_City_field{
+    display: flex;
+    flex-direction: column;
+}
+.create_therapist_City_field > input{
+    width: 750px;
+    height: 54px;
+    padding: 10px 15px;
+    border-radius: 50px;
+    border: 0.7px solid #E0E7ED;
+    outline: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.create_therapist_State_field {
+    display: flex;
+    flex-direction: column;
+}
+.create_therapist_State_field > input{
+    width: 750px;
+    height: 54px;
+    padding: 10px 15px;
+    border-radius: 50px;
+    border: 0.7px solid #E0E7ED;
+    outline: none;
+    margin-top: 10px;
+}
+.create_therapist_btn{
+    width: 173px;
+    height: 46px;
+    background-color: #008CC7;
+    color: white;
+    border-radius: 20px;
+    
+}
+
+
+.alert {
+    width: 512px;
+    padding: 16px;
+    margin: 8px;
+    max-width: 90%;
+  }
+  .alert-2-success {
+    border-left: 4px solid #2ec946 !important;
+    background-color: rgba(46, 201, 70, 0.05) !important;
+}
+.alert-2-success .alert-title {
+    color: #2ec946;
+}
+.alert-title {
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+.alert-content {
+    margin: 0;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    color: #555;
+}

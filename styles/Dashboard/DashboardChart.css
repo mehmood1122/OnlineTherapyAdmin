@@ -1,0 +1,47 @@
+
+.dashboard_chart_container{
+    width: 1235px;
+    height: 640px;
+}
+
+
+.dashboard_chart_container > .dashboard_chart_wrapper{
+    /* height: 580px; */
+    height: 726px;
+    width: 1227px;
+    padding: 26px 20px 15px 40px;
+    background-color: #ffffff;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 12px;
+}
+.dashboard_chart_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.dashboard_chart_header > div{
+    font-weight: 500;
+font-size: 27.0632px;
+}
+.dashboard_chart_header>button{
+    width: 141.76px;
+    height: 49.13px;
+    padding: 12px 14px 12px 14px;
+    background-color: #ffffff;
+    border-radius: 13px;
+    border: 1.28872px solid rgba(133, 134, 136, 0.16);
+    color: #858688;
+    font-weight: 500;
+
+}
+.action_dropdown_toggle_chart{
+    
+}
+canvas.chart_main {
+    height: 434px ;
+    width: 1094px ;
+}
+.action_dropdown_toggle_chart{
+    position: absolute;
+}

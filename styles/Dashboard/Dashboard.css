@@ -1,0 +1,21 @@
+.dashboard_header {
+  background: linear-gradient(168.7deg, #008cc7 1.07%, #005478 100%),
+    linear-gradient(211.84deg, #027f3d 35.85%, #005026 141.3%), #f3f3f3;
+    width: 100%;
+    /* height: 400px; */
+    height: 466px;
+    z-index: 0;
+    padding: 24px 37px 42px 30px;
+    position: relative;
+}
+
+.dashboard_sidebar{
+  display: inline-block;
+}
+
+.dahshboard_chart{
+  width: 66% ;
+  display: block;
+  margin: 0 0 118px auto;
+  border: none !important;
+}
