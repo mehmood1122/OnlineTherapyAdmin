@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://online-therapy-professionals.web.app/static/css/main.5ea0afd6.css",
+    "main.js": "https://online-therapy-professionals.web.app/static/js/main.875e1b32.js",
+    "static/media/backgroundImg.png": "https://online-therapy-professionals.web.app/static/media/backgroundImg.d420229db9a2d7444f0c.png",
+    "static/media/session_patient.png": "https://online-therapy-professionals.web.app/static/media/session_patient.ae0fad5441a0ad616021.png",
+    "static/media/notify1.png": "https://online-therapy-professionals.web.app/static/media/notify1.3ad10289ab4eba3d1b5e.png",
+    "static/media/notify3.png": "https://online-therapy-professionals.web.app/static/media/notify3.fe4e0b1dfcc1304078bd.png",
+    "static/media/notify2.png": "https://online-therapy-professionals.web.app/static/media/notify2.9a896faee7d6e85641a2.png",
+    "static/media/World Map.png": "https://online-therapy-professionals.web.app/static/media/World Map.d75e5848e443c93cd175.png",
+    "static/media/notify4.png": "https://online-therapy-professionals.web.app/static/media/notify4.9f2ab9153830ae8d8acf.png",
+    "static/media/icon-documentation.png": "https://online-therapy-professionals.web.app/static/media/icon-documentation.99224aacb77e016de5a4.png",
+    "static/media/patientpic.png": "https://online-therapy-professionals.web.app/static/media/patientpic.1362523b3e599215ce6d.png",
+    "static/media/bg-login-frame.png": "https://online-therapy-professionals.web.app/static/media/bg-login-frame.9a2f9ea475538c1dc6d8.png",
+    "index.html": "https://online-therapy-professionals.web.app/index.html",
+    "main.5ea0afd6.css.map": "https://online-therapy-professionals.web.app/static/css/main.5ea0afd6.css.map",
+    "main.875e1b32.js.map": "https://online-therapy-professionals.web.app/static/js/main.875e1b32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ea0afd6.css",
+    "static/js/main.875e1b32.js"
+  ]
+}
